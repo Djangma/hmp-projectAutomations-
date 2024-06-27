@@ -1,0 +1,16 @@
+{
+
+   "UserRegistrationPageLocators" :  {
+
+    "userNameLocator " : ".focusable > #patient-register-name",
+    "userPasswordLocator" : " .focusable > #patient-register-password",
+    "userEmailLocator" :".focusable > #patient-register-email",
+    "SignUpButtonLocator"  :".primary > .ng-star-inserted > .text-center"
+
+
+   }
+        
+
+
+
+}

@@ -1,0 +1,12 @@
+{
+
+    "UserAuthenticationPageLocators" :{
+
+        "LoginUserEmilaLoactor" : "cy.get('.focusable > #login-email')",
+
+        "LoginUserPasswoed" : "cy.get('.focusable > #login-email')",
+
+        "LoginButton": "cy.get('.primary > .ng-star-inserted')"
+
+    }
+}
